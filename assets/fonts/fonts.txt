@@ -1,0 +1,40 @@
+
+Main color: c99866;
+
+
+
+PlayfairDisplay Regular
+
+PlayfairDisplay SemiBold
+
+PlayfairDisplay Bold
+
+UTM Amerika Sans
+
+Helvetica Neue
+
+Helvetica Neue Medium
+
+
+
+
+<!-- <div class="container_s">
+        <?php
+        include TEMPLATE . LAYOUT . "seo.php";
+        if ($source == 'index' || $source == '') include TEMPLATE . LAYOUT . "header-index.php";
+        else include TEMPLATE . LAYOUT . "header.php";
+        include TEMPLATE . LAYOUT . "mmenu.php";
+        if ($source != 'index') include TEMPLATE . LAYOUT . "breadcrumb.php";
+        ?>
+        <div class="wrap-main <?= ($source == 'index') ? 'wrap-home' : '' ?> w-clear">
+            <div id="fullpage">
+                <?php include TEMPLATE . $template . "_tpl.php"; ?>
+            </div>
+        </div>
+        <?php
+        include TEMPLATE . LAYOUT . "footer.php";
+        include TEMPLATE . LAYOUT . "modal.php";
+        include TEMPLATE . LAYOUT . "js.php";
+        // if($deviceType=='mobile') include TEMPLATE.LAYOUT."phone.php";
+        ?>
+    </div> -->
